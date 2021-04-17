@@ -1,0 +1,9 @@
+.username{
+    float: right;
+}
+.btn{
+    text-align: center;
+    line-height: 100%;
+    letter-spacing: 2px;
+    margin-left: 10px;
+}
